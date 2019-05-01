@@ -1,0 +1,4 @@
+﻿  Allyn_final_project.cpp
+\\mac\home\documents\visual studio 2015\projects\allyn_final_project\allyn_final_project\allyn_final_project.cpp(60): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Allyn_final_project.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Allyn_final_project\Debug\Allyn_final_project.exe
+  Allyn_final_project.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Allyn_final_project\Debug\Allyn_final_project.pdb (Full PDB)
